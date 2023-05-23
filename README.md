@@ -10,5 +10,5 @@ Made necessary changes in the package.json file as required.
   },) in it if not present)
   
 Once all required changes are done , in the project directory terminal run:
-`npm run dev`
+### `npm run dev`
 
