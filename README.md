@@ -9,6 +9,12 @@ Made necessary changes in the package.json file as required.
        "dev": "nodemon server.js",  
   },) in it if not present)
   
+  
 Once all required changes are done , in the project directory terminal run:
 ### `npm run dev`
+
+This runs the app in the developement mode in the broswer.
+
+To view in the chrome web browser:
+### Open http://localhost:8000
 
